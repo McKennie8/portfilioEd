@@ -2,7 +2,7 @@ import React from "react";
 //import icons
 import clock from "../img/clock.svg";
 import diaphragm from "../img/diaphragm.svg";
-import money5 from "../img/money5.jpeg";
+import money from "../img/money.svg";
 import teamwork from "../img/teamwork.svg";
 import home2 from "../img/home2.png";
 
@@ -37,7 +37,7 @@ const ServicesSection = () => {
           </div>
           <div className="card">
             <div className="icon">
-              <img src={money5} alt="money" />
+              <img src={money} alt="money" />
               <h3>Affordable</h3>
             </div>
             <p>Lorem ipsum dolor sit amet.</p>

@@ -30,3 +30,9 @@ export const Image = styled.div`
 export const Hide = styled.div`
   overflow: hidden;
 `;
+
+export const Question = styled.div``;
+
+export const Answer = styled.div``;
+
+export const Faq = styled.div``;

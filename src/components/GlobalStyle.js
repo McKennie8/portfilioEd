@@ -43,6 +43,7 @@ h2{
     h4{ 
         font-weight: bold;
         color: white;
+        font-size: 2rem;
         
     }
     a{

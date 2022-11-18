@@ -72,6 +72,7 @@ const Card = styled.div`
   .icon {
     display: flex;
     align-items: center;
+    color: #e293de;
     h3 {
       margin-left: 1rem;
       background: white;

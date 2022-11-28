@@ -80,3 +80,13 @@ export const scrollReveal = {
     },
   },
 };
+
+export const swoopAdoop = {
+  hidden: { opacity: 0, width: "0%" },
+  show: {
+    opacity: 1,
+    transition: { duration: 0.5 },
+    width: "100%",
+    transition: { ease: "easeOut", duration: 1 },
+  },
+};
